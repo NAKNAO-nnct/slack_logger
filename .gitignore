@@ -1,6 +1,6 @@
 # python
 *__pycache__/*
-plugin/__pycache__/*
+plugins/__pycache__/*
 
 # env
 .env
